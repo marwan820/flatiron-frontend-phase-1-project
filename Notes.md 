@@ -1,0 +1,26 @@
+Requirements
+[] Access data from API or json file
+[] App must run single page, no redirects or reloads
+single html file
+[] Use at least 2 distinct event listeners
+[] Each listener should have its own unqiue callback function
+[] At least one array iteration ineracting with API data
+
+Strech Goals
+[] use json-server in your proejct to persist apps interactivity
+[] use 3 event listeners
+
+Project Pitches
+[] basic story of app
+[] core features of your MVP
+[] The API data youll be using and how youll use it
+[]Challenges you expect to face
+[] How are you meeeting the requirements of the Project
+
+----- to do list
+-nba logo somewhere on the site 
+- interesting nba data or stories 
+- player comparison tool
+- team comparison tool
+- fetch info
+- 
