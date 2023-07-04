@@ -9,10 +9,10 @@
 // player comparison tools would be useful and image of player appearing would nice features
 getFunction() 
 function getFunction (){
-   fetch()
-   .then()
-   .then()
-   .catch()
+   fetch("https://www.balldontlie.io/api/v1/players")
+   .then(res => res.json())
+   .then(stats => console.log(stats))
+   //.catch(error => alert("try again",error))
 }
 // this function will be used as event handler
 // once the fetch is successful, the player stats appear on the dom
